@@ -1,0 +1,46 @@
+= Leonardo Da Vinci By Walter Isaacson
+
+[options="header",cols="<12%,^15%,<20%,<53%"]
+|====    
+| Revision | Date       | Author                                        | Description
+| 1.0      | 2021-04-27 | mailto:lihongshu1634@hotmail.com[lihongshu]   | First draft
+|====
+
+
+image::inserts/pictures/fig01.jpeg[align="center", scaledwidth="100%"]
+
+= Introduction
+
+This is aim to share an audiobook version of Autobiography writen by Walter Isaacson about Leonardo Da Vinci.An english pdf version is also provided.
+
+== contents
+
+[options="header",cols="10%,^10%,<20%,<30%,<5%,<10%,<40%"]
+|====    
+| File
+| Tittle
+| Album   
+| Artist        
+| Year      
+| Genre 
+
+| link:Chap00_Introduction[Chap00_Introduction]
+| Chapter00
+| Leonardo Da Vinci By Walter Isaacson
+| Walter Isaacson      
+| 2017
+| Autobiography
+
+|====
+
+
+== PDF version
+
+link:LeonardoDa_Vinci_By_Walter_Isaacson_En.pdf[LeonardoDa_Vinci_By_Walter_Isaacson_En]
+
+== See Also
+* https://medium.com/@cintagarca/filling-notebooks-feeling-curious-like-leonardo-da-vinci-fe9e3f9dec6e
+
+
+
+
